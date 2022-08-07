@@ -1,5 +1,5 @@
 default: install_vcan
-	./vcan_bridge.py
+	./python_can_bridge.py
 
 install_vcan:
 	lsmod | grep -q vcan || sudo ip link add dev vcan0 type vcan
