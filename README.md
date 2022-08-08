@@ -1,5 +1,5 @@
 # python_can_bridge
-* bridge to [python-can](https://python-can.readthedocs.io/en/master/) interfaces *
+* bridge two [python-can](https://python-can.readthedocs.io/en/master/) interfaces *
 
 This is a simple script to bridge two Python-can buses, transferring
 all data from one bus to the other and vice-versa.
